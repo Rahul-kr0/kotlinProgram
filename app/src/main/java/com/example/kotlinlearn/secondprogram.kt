@@ -8,3 +8,5 @@ fun main() {
     customers = 8
     println(customers)
 }
+
+// Declare all variables as read-only (val) by default
